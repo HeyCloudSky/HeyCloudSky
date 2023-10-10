@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HeyCloudSky
 - 🌱 I’m currently learning app development for small business, might explore intelligence assistance as daily routine solution.
 
-<!---
+<!--- Original Github Generated ---
 - 👋 Hi, I’m @HeyCloudSky
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
